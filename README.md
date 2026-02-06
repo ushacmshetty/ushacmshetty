@@ -1,6 +1,6 @@
 ## Hi 👋,I'm Usha
 # 💫 About Me:
-Student with interest in software development  <br>Currently learning full stack and programming fundamentals  <br>Focused on continuous self-improvement  <br>Career goal: Software Developer in a reputed organization .<br> <br>
+🎓 Student | Aspiring Software Developer <br><br> 💻 Currently learning Python and programming fundamentals <br> <br>🌱 Focused on continuous self-improvement  <br><br> 🎯 Career goal: Software Developer in a reputed organization .<br> <br>
 
 
 ## 🌐 Socials:
